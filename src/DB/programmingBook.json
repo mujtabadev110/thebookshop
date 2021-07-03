@@ -1,0 +1,111 @@
+[
+
+    {
+        "_id" : "301",
+        "name" : "How to Avoid a Climate Disaster",
+        "author" : "Bill Gates",
+        "description" : "Not Available ",
+        "details" : "Bill Gates has spent a decade investigating the causes and effects of climate change. With the help of experts in the fields of physics, chemistry, biology, engineering, political science, and finance, he has focused on what must be done in order to stop the planet's slide toward certain environmental disaster. In this book, he not only explains why we need to work toward net-zero emissions of greenhouse gases, but also details what we need to do to achieve this profoundly important goal.  He gives us a clear-eyed description of the challenges we face. Drawing on his understanding of innovation and what it takes to get new ideas into the market, he describes the areas in which technology is already helping to reduce emissions, where and how the current technology can be made to function more effectively, where breakthrough technologies are needed, and who is working on these essential innovations. Finally, he lays out a concrete, practical plan for achieving the goal of zero emissions-suggesting not only policies that governments should adopt, but what we as individuals can do to keep our government, our employers, and ourselves accountable in this crucial enterprise.  As Bill Gates makes clear, achieving zero emissions will not be simple or easy to do, but if we follow the plan he sets out here, it is a goal firmly within our reach.",
+        "moreInfo" : {
+            "publisher" : "Penguin Books Ltd",
+              "date": "16 Feb 2021",
+              "format": "Hardback",
+              "pages" : "272"
+                      },
+        
+        "image" : "/images/booksimg/p01.jpg",
+        "price" : "17.40" 
+    } ,
+
+    {
+        "_id" : "302",
+        "name" : "The Future of the Professions",
+        "author" : "Richard Susskind",
+        "description" : "'The Future of the Professions predicts the decline of today's professions and introduces the people and systems that will replace them. In an internet-enhanced society, we will neither need nor want doctors, teachers, accountants, architects, the clergy, lawyers, and many others, to work as they did in the 20th century.'",
+        "details" : "'This book predicts the decline of today's professions and introduces the people and systems that will replace them. In an internet-enhanced society, according to Richard Susskind and Daniel Susskind, we will neither need nor want doctors, teachers, accountants, architects, the clergy, consultants, lawyers, and many others, to work as they did in the 20th century. The Future of the Professions explains how increasingly capable technologies - from telepresence to artificial intelligence - will place the 'practical expertise' of the finest specialists at the fingertips of everyone, often at no or low cost and without face-to-face interaction. The authors challenge the 'grand bargain' - the arrangement that grants various monopolies to today's professionals. They argue that our current professions are antiquated, opaque and no longer affordable, and that the expertise of their best is enjoyed only by a few. In their place, they propose five new models for producing and distributing expertise in society. The book raises profound policy issues, not least about employment (they envisage a new generation of 'open-collared workers') and about control over online expertise (they warn of new 'gatekeepers') - in an era when machines become more capable than human beings at most tasks. Based on the authors' in-depth research of more than a dozen professions, and illustrated by numerous examples from each, this is the first book to assess and question the future of the professions in the 21st century. ",
+        "moreInfo" : {
+            "publisher" : "Oxford University Press",
+              "date": "23 Feb 2017",
+              "format": "Paperback",
+              "pages" : "368"
+                      },
+        
+        "image" : "/images/booksimg/p02.jpg",
+        "price" : "10.0" 
+
+    },
+
+    {
+        "_id" : "303",
+        "name" : "Will Artificial Intelligence Outsmart Us?",
+        "author" : "Stephen Hawking",
+        "description" : "'Brief Answers, Big Questions: four new books celebrating the genius of Stephen Hawking's brilliant posthumous work, Brief Answers to the Big Questions, with each one offering two electrifying essays from one of the greatest minds of our age. ",
+        "details" : "Not Available ",
+        "moreInfo" : {
+            "publisher" : "Hodder & Stoughton General Division",
+              "date": "19 Aug 2021",
+              "format": "Paperback",
+              "pages" : "96"
+                      },
+        
+        "image" : "/images/booksimg/p03.jpg",
+        "price" : "4.5" 
+
+    },
+
+    {
+        "_id" : "304",
+        "name" : "AI for Death and Dying",
+        "author" : "Maggi Savin-Baden",
+        "description" : " Not Available ",
+        "details" : "Not Available" ,
+        "moreInfo" : {
+            "publisher" : "Taylor & Francis Ltd",
+              "date": "27 Aug 2021",
+              "format": "Paperback",
+              "pages" : "192"
+                      },
+        
+        "image" : "/images/booksimg/p04.jpg",
+        "price" : "13.4" 
+
+    },
+
+    {
+        "_id" : "305",
+        "name" : "Atlas of AI",
+        "author" : "Kate Crawford",
+        "description" : " The hidden costs of artificial intelligence, from natural resources and labor to privacy and freedom ",
+        "details" : " The hidden costs of artificial intelligence, from natural resources and labor to privacy, equality, and freedom 'This study argues that [artificial intelligence] is neither artificial nor particularly intelligent. . . . A fascinating history of the data on which machine-learning systems are trained.' -New Yorker 'Eloquent, clear and profound-this volume is a classic for our times.'-Geoffrey C. Bowker, University of California, Irvine  What happens when artificial intelligence saturates political life and depletes the planet? How is AI shaping our understanding of ourselves and our societies? Drawing on more than a decade of research, award-winning scholar Kate Crawford reveals how AI is a technology of extraction: from the minerals drawn from the earth, to the labor pulled from low-wage information workers, to the data taken from every action and expression. This book reveals how this planetary network is fueling a shift toward undemocratic governance and increased inequity. Rather than taking a narrow focus on code and algorithms, Crawford offers us a material and political perspective on what it takes to make AI and how it centralizes power. This is an urgent account of what is at stake as technology companies use artificial intelligence to reshape the world.",
+        "moreInfo" : {
+            "publisher" : "Yale University Press",
+              "date": "4 May 2021",
+              "format": "Hardback",
+              "pages" : "336"
+                      },
+       
+        "image" : "/images/booksimg/p06.jpg",
+        "price" : "17.5" 
+
+    },
+
+    {
+        "_id" : "306",
+        "name" : "Breaking the Social Media Prism ",
+        "author" : "Chris Bail",
+        "description" : "A revealing look at how user behavior is powering deep social divisions online-and how we might yet defeat political tribalism on social media " ,
+        "details" : " In an era of increasing social isolation, platforms like Facebook and Twitter are among the most important tools we have to understand each other. We use social media as a mirror to decipher our place in society but, as Chris Bail explains, it functions more like a prism that distorts our identities, empowers status-seeking extremists, and renders moderates all but invisible. Breaking the Social Media Prism challenges common myths about echo chambers, foreign misinformation campaigns, and radicalizing algorithms, revealing that the solution to political tribalism lies deep inside ourselves. " ,
+        "moreInfo" : {
+            "publisher" : "Princeton University Press",
+              "date": "6 Apr 2021",
+              "format": "Hardback",
+              "pages" : "204"
+                      },
+        
+        "image" : "/images/booksimg/p05.jpg",
+        "price" : "18.5" 
+
+    }
+
+
+]

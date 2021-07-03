@@ -1,0 +1,199 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento+Sans&display=swap');
+
+html {
+  font-size: 90.5%; /* 16px x 62.5 = 10px = 1rem */
+  box-sizing: border-box;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+
+.HomeScreen{
+
+  margin: 1rem;
+
+}
+
+.icons-section-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #d8e8e3;
+  height: 2em;
+  /* margin-top: 5em; */
+
+}
+
+.icons-container>div{
+  display: inline;
+  margin: 1rem;
+}
+
+/* ----Navbar CSS------ */
+
+
+.navbar-wrapper{
+  padding: 1rem;
+}
+
+.navbar-wrapper span{
+
+  font-size: 1.0em;
+ font-weight: bold;
+  color: #0a0a0a;
+text-transform: uppercase;
+}
+
+.navbar-wrapper span:hover{
+
+  color: #008248;
+
+}
+
+.navlink > NavLink:focus, :hover, :visited, :link {
+
+  
+  text-decoration: none;
+
+}
+.is-active {
+
+  
+  color:#008248
+
+}
+
+
+
+
+
+/* -----Carousel CSS------ */
+
+
+
+
+/* -------CardItem CSS-----  */
+
+.card {
+ 
+  border: 0.1rem #c0c0c0 solid;
+  background-color: #f8f8f8;
+  border-radius: 0.5rem;
+  margin: 1rem;
+  width: 20rem;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 7%), 0 4px 5px rgb(0 0 0 / 6%), 0 1px 10px rgb(0 0 0 / 30%);
+ 
+}
+.card-body {
+  padding: 1rem;
+}
+.card-body > * {
+  margin-bottom: 0.5rem;
+}
+
+
+.cardsItem{
+
+  margin: 1rem;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 30vh;
+  object-fit: contain;
+  }
+
+
+ 
+  /* Small devices (landscape phones, 576px and up) */
+  /*
+  @media (min-width: 576px) {
+ 
+    .card-img-top {
+      width: 100%;
+        height: 20vw;
+    }
+  }
+  /* Medium devices (tablets, 768px and up) */
+  /*
+  @media (min-width: 768px) {
+    .card-img-top {
+        height: 16vw;
+    }
+  }
+  /* Large devices (desktops, 992px and up) */
+  /*
+  @media (min-width: 992px) {
+    .card-img-top {
+        height: 11vw;
+    }
+  }
+
+  /* Extra large devices (large desktops, 1200px and up) */
+  /*  
+  @media (min-width: 992px) {
+    .card-img-top {
+        height: 11vw;
+    }
+  }
+
+ */
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+
+.login-container, .signup-container{
+
+  border-radius: 12px;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 7%), 0 4px 5px rgb(0 0 0 / 6%), 0 1px 10px rgb(0 0 0 / 10%);
+  padding: 3.2rem;  
+}
+
+.signin-btn,  .cart-btn , .signup-btn , .browse-btn{
+  box-shadow: 0 0 6px rgb(0 0 0 / 24%), 0 8px 12px rgb(0 0 0 / 14%) !important;
+    border-radius: 500px !important;
+}
+.signin-btn:focus , .cart-btn:focus , .signup-btn:focus , .browse-btn:focus {
+  transform: rotate(360deg);
+  transition: transform 0.5s;
+ 
+}
+
+.footer-icons:hover, .footer-icons:focus {
+
+    border-radius: 12px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 7%), 0 4px 5px rgb(0 0 0 / 6%), 0 1px 10px rgb(0 0 0 / 30%);
+ 
+}
+
+.footer-container span, .card-section-container h1, .nav-logo span{
+  color: #008248;
+  font-weight: bold;
+  
+}
+
+.footer-container a, .footer-container p {
+  text-decoration: none;
+  color: #0a0a0a;
+  font-size: 1.2em;
+}

@@ -1,0 +1,105 @@
+[
+
+    {
+        "_id" : "201",
+        "name" : "How to Make the World Add Up",
+        "author" : "Tim Harford",
+        "description" : "The Sunday Times Business Bestseller now in paperback ",
+        "details" : "In How to Make the World Add Up, Tim Harford draws on his experience as both an economist and presenter of the BBC's radio show 'More or Less' to take us deep into the world of disinformation and obfuscation, bad research and misplaced motivation to find those priceless jewels of data and analysis that make communicating with numbers so rewarding. Through vivid storytelling he reveals how we can evaluate the claims that surround us with confidence, curiosity and a healthy level of scepticism. It is a must-read for anyone who cares about understanding the world around them.",
+        "moreInfo" : {
+            "publisher" : "Little, Brown Book Group",
+              "date": " 6 May 2021",
+              "format": "Paperback",
+              "pages" : "352"
+                      },
+        "image" : "/images/booksimg/m01.jpg",
+        "price" : "9.29" 
+
+    } ,
+
+    {
+        "_id" : "202",
+        "name" : " The Language Lover's Puzzle Book ",
+        "author" : "Alex Bellos",
+        "description" : " From the bestselling author of Alex's Adventures in Numberland and Can You Solve My Problems? comes a fascinating, hugely entertaining collection of puzzles for crossword addicts and language-lovers of all stripes.",
+        "details" : "'From the bestselling author of Alex's Adventures in Numberland and Can You Solve My Problems? comes a fascinating, hugely entertaining collection of puzzles for crossword addicts and language-lovers of all stripes. 'The only puzzle book I've seen that manages to befuddle both sides of the brain at the same time.' DARA O BRIAIN 'Such fun, full of unexpected ideas and charmingly written.' TIM HARFORD The Language Lover's Puzzle Book is a book of more than 100 surprising and entertaining puzzles that celebrate the amazing diversity of the world of words and language. Featuring a huge variety of ancient, modern and even invented languages, this collection of problems will introduce you to unusual alphabets and scripts, curious vocabularies and phonologies, and global variations in simple behaviours like counting, telling the time, and naming children. Whether you are a crossword solver, a code-breaker or a Scrabble addict, these puzzles are guaranteed to twist your tongue and sharpen your mind. 'For all the language and puzzle fans in your life!' GRETCHEN McCULLOCH 'A cornucopia of ingenious and insightful challenges.' DAVID CRYSTAL 'This compendium of puzzles is a great idea.' MICHAEL ROSEN 'You'll love what Alex Bellos has done here.' GYLES BRANDRETH 'Tantalisting.'THE ECONOMIST 'The perfect way to pass the time.' BBC SCIENCE FOCUS ",
+        "moreInfo" : {
+            "publisher" : "Guardian Faber Publishers",
+              "date": " 5 Nov 2020",
+              "format": "Paperback",
+              "pages" : "416"
+                      },
+        "image" : "/images/booksimg/m02.jpg",
+        "price" : "11.99"
+
+    },
+
+    {
+        "_id" : "203",
+        "name" : "Humble Pi",
+        "author" : "Matt Parker",
+        "description" : " A Comedy of Maths Errors",
+        "details" : "What makes a bridge wobble when it's not meant to? Billions of dollars mysteriously vanish into thin air? A building rock when its resonant frequency matches a gym class leaping to Snap's 1990 hit I've Got The Power? The answer is maths. Or, to be precise, what happens when maths goes wrong in the real world. As Matt Parker shows us, our modern lives are built on maths: computer programmes, finance, engineering. And most of the time this maths works quietly behind the scenes, until ... it doesn't. Exploring and explaining a litany of glitches, near-misses and mishaps involving the internet, big data, elections, street signs, lotteries, the Roman empire and a hapless Olympic shooting team, Matt Parker shows us the bizarre ways maths trips us up, and what this reveals about its essential place in our world. ",
+        "moreInfo" : {
+            "publisher" : "Penguin Books Ltd",
+              "date": " 5 Mar 2020",
+              "format": "Paperback",
+              "pages" : "336"
+                      },
+        "image" : "/images/booksimg/m03.jpg",
+        "price" : "9.29" 
+
+    },
+
+    {
+        "_id" : "204",
+        "name" : " Calculus: A Complete Introduction",
+        "author" : "Hugh Neill",
+        "description" : "A bestselling introductory course, this book covers all areas of calculus, including functions, gradients, rates of change, differentiation, exponential and logarithmic functions and intgration. ",
+        "details" : " Calculus: A Complete Introduction is the most comprehensive yet easy-to-use introduction to using calculus. Written by a leading expert, this book will help you if you are studying for an important exam or essay, or if you simply want to improve your knowledge. The book covers all areas of calculus, including functions, gradients, rates of change, differentiation, exponential and logarithmic functions and integration. Everything you will need to know is here in one book. Each chapter includes not only an explanation of the knowledge and skills you need, but also worked examples and test questions." ,
+        "moreInfo" : {
+            "publisher" : "John Murry Press",
+              "date": " 7 jun 2018",
+              "format": "Paperback",
+              "pages" : "368"
+                      },
+        "image" : "/images/booksimg/m04.jpg",
+        "price" : "13.64" 
+
+    },
+
+    {
+        "_id" : "205",
+        "name" : " Numbers Don't Lie ",
+        "author" : "Vaclav Smil",
+        "description" : " 71 Things You Need to Know About the World ",
+        "details" : " From Earth's nations and inhabitants, through the fuels and foods that energize them, to the transportation and inventions of our modern world - and how all of this affects the planet itself - in Numbers Don't Lie, Professor Vaclav Smil takes us on a fact-finding adventure, using surprising statistics and illuminating graphs to challenge lazy thinking. Smil is on a mission to make facts matter, because after all, numbers may not lie, but which truth do they convey? .",
+        "moreInfo" : {
+            "publisher" : "Penguin Books Ltd",
+              "date": "1 Apr 2021",
+              "format": "Paperback",
+              "pages" : "384"
+                      },
+        "image" : "/images/booksimg/m05.jpg",
+        "price" : "9.25" 
+
+    },
+
+    {
+        "_id" : "206",
+        "name" : " Something Doesn't Add Up ",
+        "author" : "Paul Goodwin",
+        "description" : " An entertaining journey through the ways in which we fool ourselves with numbers. ",
+        "details" : " Some people fear and mistrust numbers. Others want to use them for everything. After a long career as a statistician, Paul Goodwin has learned the hard way that the ones who want to use them for everything are a very good reason for the rest of us to fear and mistrust them. Something Doesn't Add Up is a fieldguide to the numbers that rule our world, even though they don't make sense. Wry, witty and humane, Goodwin explains mathematical subtleties so painlessly that you hardly need to think about numbers at all. He demonstrates how statistics that are meant to make life simpler often make it simpler than it actually is, but also reveals some of the ways we really can use maths to make better decisions. Enter the world of fitness tracking, the history of IQ testing, China's social credit system, Effective Altruism, and learn how someone should have noticed that Harold Shipman was killing his patients years before they actually did. In the right hands, maths is a useful tool. It's just a pity there are so many of the wrong hands about. " ,
+        "moreInfo" : {
+            "publisher" : "Profile Books Ltd",
+              "date": "4 Feb 2021",
+              "format": "Paperback",
+              "pages" : "256"
+                      },
+        "image" : "/images/booksimg/m06.jpg",
+        "price" : "9.29" 
+
+    }
+
+]

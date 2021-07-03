@@ -1,0 +1,106 @@
+[
+
+    {
+      "_id" : "101",
+      "name" : "Things Fall Apart",
+      "author" : "Chinua Achebe",
+      "description" : "Okonowo is the greatest warrior alive and he is one of the powerful men of his clan. But he also has a fiery temper. Determined not to be like his father he refuses to show his weakness. When outsiders threaten the traditions of his clan he takes violent action. Will the great man's pride eventually destroy him ",
+      "details" : "One of the BBC's '100 Novels That Shaped Our World' A worldwide bestseller and the first part of Achebe's African Trilogy, Things Fall Apart is the compelling story of one man's battle to protect his community against the forces of change. Okonkwo is the greatest wrestler and warrior alive, and his fame spreads throughout West Africa like a bush-fire in the harmattan. But when he accidentally kills a clansman, things begin to fall apart. Then Okonkwo returns from exile to find missionaries and colonial governors have arrived in the village. With his world thrown radically off-balance he can only hurtle towards tragedy. First published in 1958, Chinua Achebe's stark, coolly ironic novel reshaped both African and world literature, and has sold over ten million copies in forty-five languages. This arresting parable of a proud but powerless man witnessing the ruin of his people begins Achebe's landmark trilogy of works chronicling the fate of one African community, continued in Arrow of God and No Longer at Ease. 'His courage and generosity are made manifest in the work' Toni Morrison 'The writer in whose company the prison walls fell down' Nelson Mandela 'A great book, that bespeaks a great, brave, kind, human spirit' John Updike With an Introduction by Biyi Bandele",
+      "moreInfo" : {
+        "publisher" : "Penguin Books Ltd",
+          "date": " 6 Jan 2006",
+          "format": "Paperback",
+          "pages" : "208"
+                  },
+      "image" : "/images/booksimg/e01.jpg",
+      "price" : "8.5" 
+      } ,
+
+      {
+      "_id" : "102",
+      "name" : "The God of Small Things",
+      "author" : "Arundhati Roy",
+      "description" : " 'They all broke the rules. They all crossed into forbidden territory. They all tampered with the laws that lay down who should be loved, and how. And how much.'",
+      "details" : "'They all broke the rules. They all crossed into forbidden territory. They all tampered with the laws that lay down who should be loved, and how. And how much.' This is the story of Rahel and Estha, twins growing up among the banana vats and peppercorns of their blind grandmother's factory, and amid scenes of political turbulence in Kerala. Armed only with the innocence of youth, they fashion a childhood in the shade of the wreck that is their family: their lonely, lovely mother, their beloved Uncle Chacko (pickle baron, radical Marxist, bottom-pincher) and their sworn enemy, Baby Kochamma (ex-nun, incumbent grand-aunt).  Arundhati Roy's Booker Prize-winning novel was the literary sensation of the 1990s: a story anchored to anguish but fuelled by wit and magic. ",
+      "moreInfo" : {
+        "publisher" : "HarperCollins Publishers",
+          "date": "5 May 1998",
+          "format": "Paperback",
+          "pages" : "368"
+                  },
+      "image" : "/images/booksimg/e02.jpg",
+      "price" : "8.0" 
+
+      },
+
+      {
+      "_id" : "103",
+      "name" : "Beloved",
+      "author" : "Toni Morrison",
+      "description" : " 'Toni Morrison was a giant of her times and ours... Beloved is a heart-breaking testimony to the ongoing ravages of slavery, and should be read by all' Margaret Atwood, New York Times ",
+      "details" : "It is the mid-1800s and as slavery looks to be coming to an end, Sethe is haunted by the violent trauma it wrought on her former enslaved life at Sweet Home, Kentucky. Her dead baby daughter, whose tombstone bears the single word, Beloved, returns as a spectre to punish her mother, but also to elicit her love. Told with heart-stopping clarity, melding horror and beauty, Beloved is Toni Morrison's enduring masterpiece.  WITH AN INTRODUCTION BY ZADIE SMITH AND FEATURING SPECIAL ARCHIVAL MATERIAL  'An American masterpiece' A.S. Byatt 'I adored her honesty. I admired the way she occupied her space in the world. I believed her' Chimamanda Ngozi Adichi  **One of the BBC's 100 Novels That Shaped Our World** ",
+      "moreInfo" : {
+        "publisher" : "Vintage Publishing",
+          "date": " 5 Dec 2019",
+          "format": "Hardback",
+          "pages" : "368"
+                  },
+      "image" : "/images/booksimg/e03.jpg",
+      "price" : "9.5" 
+
+      },
+
+      {
+      "_id" : "104",
+      "name" : " The Handmaid's Tale",
+      "author" : "Margaret Atwood",
+      "description" : " Now, her memories and her will to survive are acts of rebellion. The Handmaid's Tale and its iconic - the red of the Handmaids, the blue of the Wives, the looming Gileadean Eye - have been adapted into a film, an opera, a ballet, and multi-award-winning TV series. ",
+      "details" : " Provocative, startling, prophetic, and more relevant than ever, The Handmaid's Tale has become a global . Now, in this stunning graphic novel edition of Margaret Atwood's modern classic, the terrifying reality of Gilead is brought to vivid life like never before. 'Everything Handmaids wear is red: the colour of blood, which defines us.' Offred is a Handmaid in the Republic of Gilead, where women are prohibited from holding jobs, reading, and forming friendships. She serves in the household of the Commander and his wife, and under the new social order she has only one purpose: once a month, she must lie on her back and pray that the Commander makes her pregnant, ecause in an age of declining births, Offred and the other Handmaids are valued only if they are fertile. But Offred remembers the years before Gilead, when she was an independent woman who had a job, a family, and a name of her own. Now, her memories and her will to survive are acts of rebellion.  The Handmaid's Tale and its iconic images - the red of the Handmaids, the blue of the Wives, the looming Gileadean Eye - have been adapted into a film, an opera, a ballet, and multi-award-winning TV series. This groundbreaking new graphic novel edition, adapted and featuring arresting artwork by Renee Nault, is destined to become a classic in its own right." ,
+      "moreInfo" : {
+        "publisher" : "Vintage Publishing",
+          "date": "26 Mar 2019",
+          "format": "Hardback",
+          "pages" : "240"
+                  },
+      "image" : "/images/booksimg/e04.jpg",
+      "price" : "9.0"
+
+      },
+
+      {
+      "_id" : "105",
+      "name" : "Infinite Jest",
+      "author" : "David Foster Wallace ",
+      "description" : " 'Ambitious, accomplished, deeply humorous, brilliant and witty and moving. A literary sensation' IndependentWith a foreword by Dave Eggers ",
+      "details" : " 'A writer of virtuostic talents who can seemingly do anything' New York Times  'Wallace is a superb comedian of culture . . . his exuberance and intellectual impishness are a delight' James Wood, Guardian  'He induces the kind of laughter which, when read in bed with a sleeping partner, wakes said sleeping partner up . . . He's damn good' Nicholas Lezard, Guardian  'One of the best books about addiction and recovery to appear in recent memory' Sunday Times  Somewhere in the not-so-distant future the residents of Ennet House, a Boston halfway house for recovering addicts, and students at the nearby Enfield Tennis Academy are ensnared in the search for the master copy of Infinite Jest, a movie said to be so dangerously entertaining its viewers become entranced and expire in a state of catatonic bliss . .",
+      "moreInfo" : {
+        "publisher" : "Little, Brown Book Group",
+          "date": "5 Jun 1997",
+          "format": "Paperback",
+          "pages" : "1104"
+                  },
+      "image" : "/images/booksimg/e05.jpg",
+      "price" : "7.5" 
+
+      },
+
+   {
+      "_id" : "106",
+      "name" : "I, Lucifer ",
+      "author" : "Glen Duncan ",
+      "description" : " A stunningly-written portrait of Lucifer encountering the world of the senses, telling his version of the Bible, and discovering what it's like to be human - in Clerkenwell. ",
+      "details" : " The Prince of Darkness has been given one last chance: he will be readmitted to the company of his fellow angels if he agrees to live out a human life. Highly sceptical (naturally), the Old Deal-maker negotiates a trial period - a summer holiday in a human body, with all the delights of the flesh. The body, though, turns out to be that of Declan Gunn, a depressed writer living in Clerkenwell, interrupted mid-suicide. Making the best of a bad situation, Luce himself takes to writing - to explain, to strip back the Biblical spin, to help us see the whole thing from his point of view. And to knock that Jesus off his perch. Beset by distractions, miscalculations and all the natural shocks that flesh is heir to, Lucifer slowly begins to learn what it's like to be us. Glen Duncan's brilliantly written new novel is an investigation of the world of the senses - the seductiveness of evil, and the affection which keeps us human. " ,
+      "moreInfo" : {
+          "publisher" : "Simon & Schuster Publication",
+            "date": " 6 Jan 2003",
+            "format": "Paperback",
+            "pages" : "272"
+                    },
+
+      "image" : "/images/booksimg/e06.jpg",
+      "price" : "8.5"
+
+   }
+
+  ]
+  
