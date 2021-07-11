@@ -71,14 +71,6 @@ text-transform: uppercase;
 
 
 
-
-/* -----Carousel CSS------ */
-
-
-
-
-/* -------CardItem CSS-----  */
-
 .card {
  
   border: 0.1rem #c0c0c0 solid;
@@ -109,42 +101,6 @@ text-transform: uppercase;
   }
 
 
- 
-  /* Small devices (landscape phones, 576px and up) */
-  /*
-  @media (min-width: 576px) {
- 
-    .card-img-top {
-      width: 100%;
-        height: 20vw;
-    }
-  }
-  /* Medium devices (tablets, 768px and up) */
-  /*
-  @media (min-width: 768px) {
-    .card-img-top {
-        height: 16vw;
-    }
-  }
-  /* Large devices (desktops, 992px and up) */
-  /*
-  @media (min-width: 992px) {
-    .card-img-top {
-        height: 11vw;
-    }
-  }
-
-  /* Extra large devices (large desktops, 1200px and up) */
-  /*  
-  @media (min-width: 992px) {
-    .card-img-top {
-        height: 11vw;
-    }
-  }
-
- */
-
-
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -162,16 +118,16 @@ code {
 
 
 
-.login-container, .signup-container{
+.login-container, .signup-container, .about-us-container{
 
   border-radius: 12px;
   box-shadow: 0 2px 4px rgb(0 0 0 / 7%), 0 4px 5px rgb(0 0 0 / 6%), 0 1px 10px rgb(0 0 0 / 10%);
   padding: 3.2rem;  
 }
 
-.signin-btn,  .cart-btn , .signup-btn , .browse-btn{
+.signin-btn,  .cart-btn , .signup-btn , .browse-btn .product-cart-btn:focus, .product-buy-btn:focus, .product-cart-btn:hover, .product-buy-btn:hover{
   box-shadow: 0 0 6px rgb(0 0 0 / 24%), 0 8px 12px rgb(0 0 0 / 14%) !important;
-    border-radius: 500px !important;
+    /* border-radius: 500px !important; */
 }
 .signin-btn:focus , .cart-btn:focus , .signup-btn:focus , .browse-btn:focus {
   transform: rotate(360deg);

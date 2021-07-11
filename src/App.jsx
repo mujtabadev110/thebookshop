@@ -22,6 +22,7 @@ import SignUp from "./Components/Signup"
 import Footer from "./Components/Footer";
 import AllProducts from "./Components/Products/AllProducts";
 import ProductDetail from "./Components/Products/ProductDetail";
+import Cart from "./Components/Products/Cart";
 
 
 
@@ -44,6 +45,7 @@ const App = () => {
         <Route exact path="/products" component={AllProducts} />
 
         <Route exact path="/product/:_id" component={ProductDetail} />
+        <Route exact path="/cart" component={Cart} /> 
         
         <Route exact path="/contact" component={Contact} />
 

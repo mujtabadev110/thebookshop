@@ -2,10 +2,14 @@ import React from 'react'
 import englishBook from "../../DB/englishBook.json"
 import mathsBook from "../../DB/mathsBook.json"
 import programmingBook from "../../DB/programmingBook.json"
+import { Link } from 'react-router-dom'
 
 const ProductDetail = (props) => {
 
+   
+
         const productId = props.match.params._id;
+
 
         let newId = productId.toString();
             let result = {};
@@ -28,10 +32,7 @@ const ProductDetail = (props) => {
         
     return (
         <>
-            
-
-            
-                    <hr/>
+                  <hr/>
 
                             <div className="container-fluid mt-5">
 
@@ -67,9 +68,14 @@ const ProductDetail = (props) => {
                                 <div className="product-price">
                                  <p>Price : ${result.price}</p>
                                 </div>
-                                <div className="cart-btn-detail buy-btn-detail">
-                                    <button>ADD TO CART</button>
-                                    <button>BUY NOW</button>
+                                <div className="product-counter">
+                                 <button className="btn btn-success">+</button><span>&nbsp;</span>
+                                 <input type="number" name="qty" value="1" disabled style={ {width:"42px", height: "35px", textAlign: "center"} } /><span>&nbsp;</span>
+                                 <button className="btn btn-danger">-</button>
+                                </div><br/>
+                                <div className="produnct-detail-btn">
+                                    <button type="button" className="btn btn-outline-danger product-cart-btn">ADD TO CART</button> <span>&nbsp;</span>
+                                    <Link to="/cart"><button type="button" className="btn btn-outline-success product-buy-btn">BUY NOW</button></Link>
                                 </div>
 
                             </div>

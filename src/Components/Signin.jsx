@@ -49,7 +49,7 @@ const SignIn = () =>{
     <div className="col-6 offset-3 mt-5 signup-container mb-5" style={ {background: "rgba(212,233,226,.33)" , textAlign: "center"} }>
         <h3>Can't Have Account Yet?</h3>
         <h3>Don't Worry Create a New One..</h3><br/>
-        <button type="submit" className="btn btn-lg btn-success mb-3 signin-btn">Sign up</button>
+        <Link to="/signup"><button type="submit" className="btn btn-lg btn-success mb-3 signin-btn">Sign up</button></Link>
     
     </div>
 </div>

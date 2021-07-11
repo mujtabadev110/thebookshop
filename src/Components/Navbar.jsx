@@ -1,8 +1,8 @@
 import React from "react";
 import {NavLink} from "react-router-dom";
-//import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-//import {faCartPlus} from "@fortawesome/free-solid-svg-icons";
-import { Nav , Button, Navbar, NavDropdown} from "react-bootstrap";
+import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
+import {faCartPlus} from "@fortawesome/free-solid-svg-icons";
+import { Nav , Button, Navbar, NavDropdown, Badge} from "react-bootstrap";
 
 
 
@@ -43,7 +43,7 @@ const NavbarItem = () =>{
 
       <Nav.Link> <NavLink to="contact"><span>Contact Us</span></NavLink> </Nav.Link>
 
-       <NavLink to="#"> <Button variant="danger" className = "cart-btn" >Cart</Button></NavLink> &nbsp;
+       <NavLink to="/cart"> <Button variant="white" className="btn btn-space me-3 ms-2"> <FontAwesomeIcon icon={faCartPlus} /><Badge variant="danger">0</Badge> </Button></NavLink> &nbsp;
       <NavLink to="signin"> <Button variant="success" className="signin-btn" >Sign in</Button></NavLink>
        
       </Nav>
@@ -51,103 +51,6 @@ const NavbarItem = () =>{
       </Navbar.Collapse>
 
           </Navbar>
-
-
-  
-
-      {/* <NavDropdown id="dropdowntitle" title="Catagories" id="basic-nav-dropdown">
-        <NavDropdown.Item href="#action/3.1">English Literature</NavDropdown.Item>
-        <NavDropdown.Item href="#action/3.2">Mathematics</NavDropdown.Item>
-        <NavDropdown.Item href="#action/3.3">Programming</NavDropdown.Item>
-        <NavDropdown.Divider />
-        <NavDropdown.Item href="#action/3.4">View All</NavDropdown.Item>
-      </NavDropdown> */}
-
-
-
-
-
-      {/* {/* <form className="d-flex">
-      <button className="btn btn-space me-3 ms-2"> <FontAwesomeIcon icon={faCartPlus} /> </button>
-        <button className = "btn btn-outline-success" type="submit">SignUp</button>
-        
-      </form>
-      
-
-    </div>
-  </div>
-
-    {/* <div className="row navbarwrapper">
-        <div className="col-12  mb-1 mt-1">
-
-
-<nav className="navbar nav navbar-expand-lg navbar-light" >
-  <div className="container-fluid">
-
-  <NavLink className="navbar-brand" to="#">The Book Shop</NavLink>
-    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span className="navbar-toggler-icon"></span>
-    </button>
-   
-
-    <div className="collapse navbar-collapse " id="navbarSupportedContent" >
-
-      <ul className="navbar-nav me-auto mb-2 mb-lg-2">
-
-        <li className="nav-item nav justify-content-center">
-          <NavLink activeClassName="menu-active" className="nav-link" aria-current="page" to="/home"><span>Home</span></NavLink>
-        </li>
-
-        <li className="nav-item">
-          <NavLink activeClassName="menu-active"  className="nav-link" to="/about"><span>About</span></NavLink>
-        </li>
-
-        {/*---------------DropDown Menu Start--------------- */}
-
-        {/* <li className="nav-item dropdown">
-          <NavLink activeClassName="menu-active" className="nav-link dropdown-toggle" to="/catagories" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-           <span>Catagories</span>
-          </NavLink>
-
-          <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><NavLink className="dropdown-item" to="#">View All</NavLink></li>
-            <li><hr className="dropdown-divider" /></li>
-            <li><NavLink className="dropdown-item" to="#">Mathmetics</NavLink></li>
-            <li><NavLink className="dropdown-item" to="#">English Literature</NavLink></li>
-            <li><NavLink className="dropdown-item" to="#">Programming</NavLink></li>
-            <li><NavLink className="dropdown-item" to="#">Urdu Literature</NavLink></li>
-            <li><NavLink className="dropdown-item" to="#">Science</NavLink></li>
-          </ul>
-        </li>
-
-        {/*---------------DropDown Menu ends--------------- */}
-
-        {/* <li className="nav-item">
-          <NavLink  activeClassName="menu-active" className="nav-link " to="/Contact" tabindex="-1" aria-disabled="true"><span>Contact Us</span></NavLink>
-        </li>
-      </ul> */}
-
-
-
-
-
-      {/* {/* <form className="d-flex">
-      <button className="btn btn-space me-3 ms-2"> <FontAwesomeIcon icon={faCartPlus} /> </button>
-        <button className = "btn btn-outline-success" type="submit">SignUp</button>
-        
-      </form>
-      
-
-    </div>
-  </div>
-</nav>
-
-
-</div>
-</div>  */}
-
-
-
 
         </>
     )

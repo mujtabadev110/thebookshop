@@ -49,7 +49,7 @@ const Home = () => {
 
 <div className="card-section-container">
 
-<div style={{display: "inline-block" , margin: '1rem' , color: "#444444" }}> <h1>Programming &amp; Computing</h1> </div>
+<div style={{display: "inline-block" , margin: '1rem' , color: "#444444" }}> <h1>Programming</h1> </div>
 <div style={{display: "inline-block" , float: 'right', margin: "1rem"} } ><Link to="/programming"><button className="btn-dark btn-lg browse-btn" >Browse all</button></Link> </div>
 <HomeCardsSection title="Programming" />
 </div>
